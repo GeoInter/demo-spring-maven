@@ -1,3 +1,4 @@
+cloned from: lars-gentsch-thb/demo-spring-maven
 
 import org.springframework.beans.factory.annotation.Value;
 ...
